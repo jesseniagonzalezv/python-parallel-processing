@@ -6,8 +6,9 @@
 
 - **Multiprocessing:** multi core processor. Each process is independent and assign it own memory space and hardware resources.
 
-[![Multithreading and multiprocessing](./imgs_repo/concurrency.png 'Concurrent execution')](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
-
+![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_1.jpg 'Multithreading and multiprocessing')
+![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_2.jpg 'Multithreading and multiprocessing')
+![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_3.jpg 'Multithreading and multiprocessing')
 
 # Concurrency and parallelism
 
