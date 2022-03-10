@@ -10,12 +10,12 @@
 Images are taken from this ![blog](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
 
 - **Concurrency:** A condition that exists when at least two threads are making progress. A more generalized form of parallelism that can include time-slicing as a form of virtual parallelism - Sun’s Multithreaded Programming Guide.
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
-[![Concurrency](./imgs_repo/concurrency.png)](https://www.tutorialsandyou.com/markdown/)
+[![Concurrency](./imgs_repo/concurrency.png 'Concurrent execution')](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
 
 - **Parallelism:** A condition that arises when at least two threads are executing simultaneously - Sun’s Multithreaded Programming Guide.
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
+[![Parallelism](./imgs_repo/parallelism.png 'Parallel execution')](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
 
 
 
