@@ -26,7 +26,7 @@
 
 # Conclusions
 - A thread is a sequence of instructions that are being executed within the context of a process. One process can spawn multiple threads but all of them will be sharing the same memory.
-- CPU-bound (i.e., process more data) code will have no performance gain with Python multi-threading due to the **Python Global Interpreter Lock** (GIL). However, I/O-bound (i.e., read/write more data) code will have an increase in its performance as threads will be executed concurrently and I/O instructions do not delay other CPU instructions (see Direct Memory Access - DMA).
+- CPU-bound (i.e., process more data) code will have no performance gain with Python multi-threading (**remember: all threads share the same hardware resources**). However, I/O-bound (i.e., read/write more data) code will have an increase in its performance as threads will be executed concurrently and I/O instructions do not delay other CPU instructions (see Direct Memory Access - DMA).
 - If we want to take advantage of multi-core systems and run tasks in a parallelised context, we need to perform multi-processing instead of multi-threading. Each process will have its own GIL.
 
 ## References: 
