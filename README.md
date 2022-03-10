@@ -4,7 +4,7 @@
 
 - **Multithreading:** task division inside the same process. Example: Android program (single process, 1 core exec.): GUI (1 thread) + Downloading (1 thread)
 
-- **Multiprocessing:** multi core processor. Each process is independent and assign it own memory space and hardware resources.
+- **Multiprocessing:** multi core processor. Each process is independent and has its own memory space and hardware resources.
 
 ![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_1.jpg 'Multithreading and multiprocessing')
 ![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_2.png 'Multithreading and multiprocessing')
