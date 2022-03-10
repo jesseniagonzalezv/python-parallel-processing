@@ -21,6 +21,7 @@
 [![Parallelism](./imgs_repo/parallelism.png 'Parallel execution')](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
 
 - **Concurrency and parallelism:**
+
 [![Parallelism](./imgs_repo/parallelism_concurrency.png 'Parallel and concurrent execution')](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
 
 # Conclusions
