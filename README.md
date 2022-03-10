@@ -12,11 +12,11 @@
 
 # Concurrency and parallelism
 
-- **Concurrency:** A condition that exists when at least two tasks are making progress. A more generalized form of parallelism that can include time-slicing as a form of virtual parallelism - Sun’s Multithreaded Programming Guide.
+- **Concurrency:** A condition that exists when at least two tasks are making progress. A more generalized form of parallelism that can include time-slicing as a form of virtual parallelism (Sun’s Multithreaded Programming Guide).
 
 [![Concurrency](./imgs_repo/concurrency.png 'Concurrent execution')](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
 
-- **Parallelism:** A condition that arises when at least two tasks are executing simultaneously - Sun’s Multithreaded Programming Guide.
+- **Parallelism:** A condition that arises when at least two tasks are executing simultaneously (Sun’s Multithreaded Programming Guide).
 
 [![Parallelism](./imgs_repo/parallelism.png 'Parallel execution')](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
 
