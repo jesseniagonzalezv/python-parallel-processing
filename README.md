@@ -7,8 +7,8 @@
 - **Multiprocessing:** multi core processor. Each process is independent and assign it own memory space and hardware resources.
 
 ![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_1.jpg 'Multithreading and multiprocessing')
-![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_2.jpg 'Multithreading and multiprocessing')
-![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_3.jpg 'Multithreading and multiprocessing')
+![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_2.png 'Multithreading and multiprocessing')
+![Multithreading and multiprocessing](./imgs_repo/multith_multiproc_3.jpeg 'Multithreading and multiprocessing')
 
 # Concurrency and parallelism
 
