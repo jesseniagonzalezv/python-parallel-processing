@@ -1,10 +1,10 @@
 # Multiprocessing and multithreading examples.
 
-- **Multitasking** --> division of the execution time of processes. This taks is performed by the kernel of the operating system (scheduler).
+- **Multitasking:** division of the execution time of processes. This taks is performed by the kernel of the operating system (scheduler).
 
-- **Multithreading** --> task division inside the same process. Example: Android program (single process, 1 core exec.) --> GUI (1 thread) + Downloading (1 thread)
+- **Multithreading:** task division inside the same process. Example: Android program (single process, 1 core exec.): GUI (1 thread) + Downloading (1 thread)
 
-- **Multiprocessing** --> multi core processor. Each process is independent and assign it own memory space and hardware resources.
+- **Multiprocessing:** multi core processor. Each process is independent and assign it own memory space and hardware resources.
 
 # Concurrency and parallelism
 Images are taken from this ![blog](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
